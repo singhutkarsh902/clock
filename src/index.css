@@ -1,0 +1,27 @@
+button {
+  padding: 12px 20px;
+  color: white;
+  background-color: violet;
+  border: 2px solid whitesmoke;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: large;
+}
+
+div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: wheat;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+h1 {
+  font-size: 50px;
+}
