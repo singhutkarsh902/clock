@@ -1,0 +1,2 @@
+(this.webpackJsonpclock=this.webpackJsonpclock||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a),r=n(2),o=n.n(r),l=(n(9),n(3)),u=function(){var e=new Date,t=Object(a.useState)(e),n=Object(l.a)(t,2),r=n[0],o=n[1];return setInterval((function(){o(new Date)}),1),c.a.createElement(c.a.Fragment,null,c.a.createElement("h1",null,r.toLocaleTimeString()))};o.a.render(c.a.createElement(u,null),document.getElementById("root"))},4:function(e,t,n){e.exports=n(10)},9:function(e,t,n){}},[[4,1,2]]]);
+//# sourceMappingURL=main.6cb1c2bc.chunk.js.map
